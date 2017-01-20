@@ -11,6 +11,8 @@ Requires jq and fzf
 $./fugrep.sh
 ```
 
+Select with \<TAB\> or Shift+\<TAB\>
+
 #Requires:
 
 - A shell: bash, zsh or fish
